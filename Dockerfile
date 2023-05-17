@@ -8,5 +8,5 @@ ARG HOST=0.0.0.0
 ENV HOST=$HOST
 EXPOSE $PORT
 #CMD ["json-server", "-H", $HOST, "-p", $PORT, "/app/db.js"]
-CMD ["/app/exec.sh"]
+CMD ["sh","/app/exec.sh"]
 #ENTRYPOINT json-server -H 0.0.0.0 -p $PORT /app/db.js
