@@ -1,0 +1,89 @@
+[
+    {
+        "id": "d5775113-ed08-4de0-8945-d3c977d504f5",
+        "nombres": "Kristen",
+        "apellidos": "Goullee",
+        "docnum": "98926073",
+        "doctipo": "DNI",
+        "sexo": "f",
+        "gruposang": "B",
+        "rh": "-",
+        "telefono": "921930983",
+        "gradoinstruccion": "Secundaria",
+        "ocupacion": "programador",
+        "estadocivil": "Soltero",
+        "fecnac": "1973-09-08",
+        "idlugarnac": "09908ffa-25b2-4b22-80bd-183469db2ddd",
+        "lugarnac": {
+            "id": "09908ffa-25b2-4b22-80bd-183469db2ddd",
+            "pais": "Peru",
+            "region": "Lima",
+            "provincia": "Lima",
+            "distrito": "Lima",
+            "direccion": "Av. Alfonso Ugarte 825"
+        },
+        "iddomicilioact": "2b012ee7-fe70-4fd7-ad98-3ce056311fef",
+        "domicilioact": {
+            "id": "2b012ee7-fe70-4fd7-ad98-3ce056311fef",
+            "pais": "Peru",
+            "region": "Lima",
+            "provincia": "Lima",
+            "distrito": "San Miguel",
+            "direccion": "Av. La Marina 6908"
+        },
+        "idantecedenteperi": "5b04cfe7-d5b4-4e79-8b19-c4c01f335765",
+        "antecedenteperi": {
+            "id": "5b04cfe7-d5b4-4e79-8b19-c4c01f335765",
+            "tipoembarazo": "Normal",
+            "embarazoriesgo": "Si",
+            "controlprenatal": "No",
+            "nroembarazo": 6,
+            "edadgestalnac": 8,
+            "pesoalnac": 382,
+            "tallaalnac": 53,
+            "perimcefalico": 33,
+            "respllanto": "No lloro"
+        },
+        "idantecedentepsico": "e3fa86e9-b76e-4c10-a3d8-3e1ae1712298",
+        "antecedentepsico": {
+            "id": "e3fa86e9-b76e-4c10-a3d8-3e1ae1712298",
+            "apoyofam": "si",
+            "edadgestante": 22,
+            "nrohijos": 3,
+            "embarazoespac": 5,
+            "tipotrabajo":"",
+            "violenciaocupacional":"no",
+            "vidasocial":"es aceptado",
+            "perteneceorg":"no"
+        },
+        "idantecedentefam": "d4914f81-a94b-4169-9e58-a53a2904d766",
+        "antecedentefam": {
+            "id": "d4914f81-a94b-4169-9e58-a53a2904d766",
+            "tbc": ["N"],
+            "vihsida": ["O"],
+            "diabetes": ["U"],
+            "epilepsia": ["U"],
+            "alergiamedic": ["U"],
+            "violenciafam": ["U"],
+            "alcoholismo": [
+                "P",
+                "M",
+                "H",
+                "A"
+            ],
+            "drogradiccion": ["O"],
+            "hepatitisb": ["N"],
+            "otros": " "
+        },
+        "idantecedentepato": "2a811d22-dd44-42b5-9cc8-446deea58fd0",
+        "antecedentepato": {
+            "id": "2a811d22-dd44-42b5-9cc8-446deea58fd0",
+            "tbc": "No sé",
+            "sobasma": "No sé",
+            "transfsangre": "No",
+            "neurologico": "No sabe",
+            "alergiamedic": "No sabe",
+            "otros": "El paciente no tiene otros antecedentes patologicos"
+        }
+    }
+]
